@@ -2,9 +2,35 @@
     color: white;
 }
 .titol {
-    font-size: 65px;
+    font-size: 80px;
     font-weight: bold;
 }
 .medio {
-    font-size: 20px;
+    font-size: 30px;
+}
+.fondo {
+    background-image: url("../img/HeroHeader.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+.padding-titol {
+    padding-left: 200px;
+}
+.margin-izquierda {
+    margin-left: 200px;
+}
+.btn-outline-transparent {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+}
+.margin-supertop {
+    margin-top: 550px;
+}
+.body {
+    Border: 10px solid black;
+}
+.enanismo {
+    width:50px;
 }
