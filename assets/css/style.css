@@ -28,9 +28,17 @@
 .margin-supertop {
     margin-top: 550px;
 }
-.body {
+.h1 {
     Border: 10px solid black;
 }
 .enanismo {
     width:50px;
+}
+.tarjetas1 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+.body {
+    Border: 10px solid black;
 }
